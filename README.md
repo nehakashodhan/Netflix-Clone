@@ -17,5 +17,7 @@ A fully responsive **Netflix UI Clone** created as part of my web development jo
 1. Clone the repository.
 2. Open `index.html` in your browser.
 
+<img width="1902" height="904" alt="image" src="https://github.com/user-attachments/assets/fc1e3267-2093-4aaf-95c2-674071441c2b" />
+
 ---
 *Created by [KASHODHAN NEHA]*
